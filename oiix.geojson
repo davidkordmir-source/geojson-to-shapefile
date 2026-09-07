@@ -1,0 +1,12 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [51.318, 35.689]
+  },
+  "properties": {
+    "icao": "OIIX",
+    "name": "Tehran ACC/FIR",
+    "country": "Iran"
+  }
+}
